@@ -8,6 +8,14 @@
   "orientation": "any",
   "background_color": "#000000",
   "theme_color": "#000000",
+  "shortcuts": [
+    {
+      "name": "Quick timer",
+      "short_name": "Timer",
+      "description": "Countdown with no project — works offline",
+      "url": "/timer"
+    }
+  ],
   "icons": [
     {
       "src": "/brand/favicon-32.png",
