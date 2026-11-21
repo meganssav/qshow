@@ -1,5 +1,5 @@
 /* QShow offline shell — caches pages and assets after first visit. */
-const CACHE = 'qshow-shell-v2'
+const CACHE = 'qshow-shell-v3'
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
